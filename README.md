@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![gitup](https://github.com/Kalaiselvi02s/kalaiselvi02s/assets/132753760/013467e0-4e79-425f-ac8c-619aae9e413a)
 <h1 align="center">Hi 👋, I'm kalaiselvi</h1>
 <h3 align="center">Embarking on a Data Science Journey: My Quest to Become a Data Scientist</h3>
 
